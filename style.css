@@ -1,0 +1,1417 @@
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+.Group_253 {
+  width: 19px;
+  height: 327px;
+  top: 506px;
+  left: 50px;
+  
+  position: absolute;
+
+}
+
+.Mask_Gropu{
+  width: 1080px;
+height: 1920px;
+top: -2594px;
+left: 50px;
+
+
+}
+
+.rectangulo {
+  width: 1920px;
+  height: 1080px;
+  top: 12px;
+  background-image: url(imagen\ casa\ \(1\).png);
+ 
+   /* Reemplaza 'yourColor' con el color que desees */
+  position: absolute;
+  overflow: hidden; 
+}
+
+.rectangulo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center; /* Ajusta según tus necesidades: 'left', 'right', 'top', 'bottom', 'center' */
+}
+
+.rectangulo1{
+  width: 106px;
+  height: 550px;
+  top: 1204px;
+  position: absolute;
+  overflow: hidden; 
+}
+
+.rectangulo2{
+  width: 407px;
+height: 550px;
+top: 1204px;
+left: 122px;
+position: absolute;
+  overflow: hidden
+
+}
+
+
+.rectangulo1 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center; /* Ajusta según tus necesidades: 'left', 'right', 'top', 'bottom', 'center' */
+}
+.rectangulo2 img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center; /* Ajusta según tus necesidades: 'left', 'right', 'top', 'bottom', 'center' */
+}
+
+.rectangulo3{
+  width: 407px;
+height: 550px;
+top: 1204px;
+left: 545px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.rectanguloX{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center;
+}
+
+.img2{
+  width: 40px;
+height: 40px;
+
+
+}
+
+.text1{
+  font-family: PF Regal Display Pro;
+font-size: 30px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align:center;
+ color: #464547;
+}
+
+.text2{
+  font-family: PF Regal Display Pro;
+font-size: 36px;
+font-weight: 500px;
+line-height: 7px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+.rectangulo3{
+  width: 407px;
+height: 550px;
+top: 1204px;
+left: 545px;
+position: absolute;
+  overflow: hidden;
+
+}
+.rectangulo4{
+  width: 689px;
+height: 90px;
+top: 1204px;
+left: 1109px;
+position: absolute;
+  overflow: hidden;
+  border: 2px;
+
+}
+
+.texto3{
+  font-family: PF Regal Display Pro;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: right;
+  color: #DF991B;
+  
+  
+}
+
+.rectangulo5{
+  width: 776px;
+height: 200px;
+top: 1251px;
+left: 1022px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto4{
+  font-family: PF Regal Display Pro;
+font-size: 80px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: right;
+
+}
+
+.rectangulo6{
+
+  width: 407px;
+  height: 70px;
+  top: 1638px;
+  left: 1335px;
+  border-radius: 100px;
+  border: 1px;
+  
+  
+position: absolute;
+  overflow: hidden;
+  border: 1px solid #000000;
+  color: black;
+  
+
+
+}
+
+.texto5{
+  font-family: Brandon Grotesque;
+ font-size: 30px;
+ font-weight: 390;
+ line-height: 45px;
+ letter-spacing: 0em;
+ text-align: center;
+ color: #000000;
+
+
+}
+
+.rectangulo7{
+  width: 689px;
+height: 30px;
+top: 1662px;
+left: 1173px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto6{
+  font-family: Brandon Grotesque;
+font-size: 20px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #B4B7B7;
+
+}
+.rectangulo8{
+  width: 400px;
+height: 32px;
+top: 1661px;
+left: 1136px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.tecto6{
+  font-family: Brandon Grotesque;
+  font-size: 20px;
+  font-weight: 390;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #B4B7B7;
+}
+
+.rectangulo9{
+  width: 490px;
+height: 100px;
+top: 1940px;
+left: 122px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto7{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+color: #DF991B;
+
+}
+.rectangulo10{
+  width: 759px;
+height: 150px;
+top: 1987px;
+left: 122px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto8{
+  font-family: PF Regal Display Pro;
+font-size: 80px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+}
+
+.rectangulo11{
+  width: 689px;
+height: 184px;
+top: 2137px;
+left: 122px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto9{
+  font-family: Brandon Grotesque;
+font-size: 30px;
+font-weight: 330;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+}
+.rectangulo12{
+  width: 64px;
+height: 80px;
+top: 2397px;
+left: 149px;
+
+  position: absolute;
+  overflow: hidden;
+}
+
+.texto10{
+  font-family: Brandon Grotesque;
+font-size: 20px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #B4B7B7;
+}
+
+.rectangulo13{
+  width: 64px;
+height: 80px;
+top: 2397px;
+left: 730px;
+position: absolute;
+  overflow: hidden;
+}
+.texto11{
+  font-family: Brandon Grotesque;
+font-size: 20px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #DF991B;
+}
+.rectangulo14{
+  width: 689px;
+height: 30px;
+top: 2424px;
+left: 122px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.rectangulo15{
+
+  width: 407px;
+  height: 80px;
+  top: 2389px;
+  left: 250px;
+  border-radius: 100px;
+  border: 1px;
+  
+  
+position: absolute;
+  overflow: hidden;
+  color: #000000;
+  border: 1px solid #000000;
+}
+
+.texto12{
+  font-family: Brandon Grotesque;
+font-size: 30px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+}
+
+.rectangulo16{
+  width: 407px;
+height: 550px;
+top: 1940px;
+left: 968px;
+position: absolute;
+  overflow: hidden;
+}
+
+.img3{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+
+.texto13{
+  font-family: PF Regal Display Pro;
+font-size: 30px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align:left;
+color: #464547;
+}
+
+.texto14{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+
+}
+
+.rectangulo17{
+  width: 407px;
+height: 550px;
+top: 1940px;
+left: 1391px;
+position: absolute;
+  overflow: hidden;
+}
+
+.rectangulo18{
+  width: 106px;
+height: 550px;
+top: 1940px;
+left: 1814px;
+position: absolute;
+  overflow: hidden;
+
+}
+.rectangulo19{
+  width: 554px;
+height: 100px;
+top: 2647px;
+left: 683px;
+position: absolute;
+  overflow: hidden;
+}
+.texto15{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: center;
+color: #DF991B;
+}
+.rectangulo20{
+  width: 830px;
+height: 150px;
+top: 2694px;
+left: 545px;
+position: absolute;
+  overflow: hidden;
+}
+.texto16{
+  font-family: PF Regal Display Pro;
+  font-size: 80px;
+  font-weight: 500;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
+}
+
+.rectangulo21{
+  width: 407px;
+height: 407px;
+top: 2856px;
+left: 122px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.img4{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+.rectangulo22{
+  width: 407px;
+height: 407px;
+top: 2856px;
+left: 544px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.img5{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+.rectangulo23{
+  width: 407px;
+height: 407px;
+top: 2856px;
+left: 966px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.img6{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+.rectangulo24{
+  width: 407px;
+height: 407px;
+top: 2856px;
+left: 1391px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.img7{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+
+.texto17{
+  font-family: PF Regal Display Pro;
+font-size: 25px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.texto18{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.texto19{
+  font-family: PF Regal Display Pro;
+font-size: 25px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.texto20{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.texto21{
+  font-family: PF Regal Display Pro;
+font-size: 25px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.texto22{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.texto23{
+  font-family: PF Regal Display Pro;
+font-size: 25px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.texto24{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.rectangulo25{
+  width: 407px;
+height: 407px;
+top: 3279px;
+left: 122px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.img8{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+.rectangulo26{
+  width: 407px;
+height: 407px;
+top: 3279px;
+left: 545px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.img9{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+.rectangulo27{
+  width: 407px;
+height: 407px;
+top: 3279px;
+left: 966px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.img10{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+.rectangulo28{
+  width: 407px;
+height: 407px;
+top: 3279px;
+left: 1391px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.img11{
+  width: 100%;
+  height: 60%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+.texto25{
+  font-family: PF Regal Display Pro;
+font-size: 25px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.texto26{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.texto27{
+  font-family: PF Regal Display Pro;
+font-size: 25px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.texto28{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.texto29{
+  font-family: PF Regal Display Pro;
+font-size: 25px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.texto30{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.texto31{
+  font-family: PF Regal Display Pro;
+font-size: 25px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.texto32{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.rectangulo29{
+  width: 670px;
+height: 1011px;
+top: 3800px;
+left: 122px;
+
+background: #26282B;
+position: absolute;
+  overflow: hidden;
+}
+
+.rectangulo30{
+  width: 830px;
+height: 830px;
+top: 3901px;
+left: 263px;
+position: absolute;
+  overflow: hidden;
+}
+
+.rectangulo31{
+  width: 793px;
+height: 113.62px;
+top: 3880.19px;
+left: 1130px;
+position: absolute;
+  overflow: hidden;
+}
+.rectangulo32{
+  width: 490px;
+height: 100px;
+top: 4062px;
+left: 1152px;
+position: absolute;
+  overflow: hidden;
+}
+
+.texto33{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #DF991B;
+}
+
+.rectangulo33{
+  width: 646px;
+height: 250px;
+top: 4109px;
+left: 1152px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto34{
+  font-family: PF Regal Display Pro;
+font-size: 80px;
+font-weight: 500;
+line-height: 65px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+
+.rectangulo34{
+  width: 689px;
+height: 184px;
+top: 4316px;
+left: 1152px;
+position: absolute;
+  overflow: hidden;
+}
+
+.texto35{
+  font-family: Brandon Grotesque;
+font-size: 30px;
+font-weight: 330;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+}
+.rectangulo35{
+  width: 64px;
+height: 70px;
+top: 4675px;
+left: 1179px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto36{
+  font-family: Brandon Grotesque;
+font-size: 20px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #B4B7B7;
+}
+.rectangulo36{
+  width: 64px;
+height: 70px;
+top: 4675px;
+left: 1716px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto37{
+  font-family: Brandon Grotesque;
+font-size: 20px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #DF991B;
+}
+
+.rectangulo37{
+  width: 30px;
+height: 50px;
+top: 4706px;
+left: 1167px;
+border: 2px;
+
+position: absolute;
+  overflow: hidden;
+
+}
+.rectangulo38{
+  width: 407px;
+height: 80px;
+top: 4665px;
+left: 1276px;
+border-radius: 100px;
+border: 1px;
+border: 1px solid #000000;
+color: #000000;
+position: absolute;
+  overflow: hidden;
+}
+
+.rectangulo39{
+  width: 1676px;
+height: 312px;
+top: 4945px;
+left: 122px;
+position: absolute;
+  overflow: hidden;
+  background: #26282B;
+
+
+}
+
+.rectangulo40{
+  width: 1920px;
+height: 647px;
+top: 5091px;
+position: absolute;
+  overflow: hidden;
+  background: #000000;
+
+}
+
+.texto38{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #DF991B;
+}
+.rectangulo41{
+ 
+
+  width: 490px;
+height: 90px;
+top: 40px;
+left: 180px;
+position: absolute;
+  overflow: hidden;
+  
+}
+.rectangulo42{
+  width: 548px;
+height: 200px;
+top: 50px;
+left: 180px;
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto39{
+  font-family: PF Regal Display Pro;
+font-size: 60px;
+font-weight: 500;
+line-height: 65px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+.rectangulo43{
+  width: 689px;
+height: 60px;
+top: 100px;
+left: 968px;
+border-radius: 100px;
+border: 1px;
+
+position: absolute;
+  overflow: hidden;
+  
+  border: 1px solid #7E7E7E;
+
+}
+
+.texto40{
+  font-family: Brandon Grotesque;
+font-size: 20px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align:left;
+color: #7E7E7E;
+}
+
+.rectangulo44{
+  width: 407px;
+height: 80px;
+top: 170px;
+left: 1250px;
+border-radius: 100px;
+border: 1px;
+
+position: absolute;
+  overflow: hidden;
+  border: 1px solid #DF991B
+
+}
+
+.texto41{
+  font-family: Brandon Grotesque;
+font-size: 30px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: center;
+color: #DF991B;
+}
+
+.rectangulo45{
+  width: 200px;
+height: 200px;
+top: 10px;
+left: 1021px;
+
+position: absolute;
+  overflow: hidden;
+
+}
+
+.texto42{
+  font-family: Brandon Grotesque;
+font-size: 25px;
+font-weight: 390;
+line-height: 100px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+
+.rectangulo46{
+  width: 266px;
+  height: 23.89px;
+  top: 300px;
+  left: 122px;
+  
+
+  position: absolute;
+  overflow: hidden;
+}
+
+.img12{
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center;
+}
+
+.rectangulo47{
+  width: 420px;
+height: 120px;
+top: 350px;
+left: 124px;
+position:absolute;
+overflow: hidden;
+
+}
+
+.texto43{
+  font-family: Brandon Grotesque;
+font-size: 30px;
+font-weight: 330;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color:white;
+}
+.rectangulo48{
+  width: 77px;
+height: 177px;
+top: 270px;
+left: 686px;
+position: absolute;
+overflow: hidden;
+
+}
+
+.texto44{
+  font-family: Brandon Grotesque;
+font-size: 30px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #B4B7B7;
+}
+.rectangulo49{
+  width: 200px;
+height: 177px;
+top: 270px;
+left: 1109px;
+position: absolute;
+overflow: hidden;
+}
+
+.texto45{
+  font-family: Brandon Grotesque;
+  font-size: 30px;
+  font-weight: 390;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+color: #B4B7B7;  
+}
+
+.rectangulo50{
+  width: 407px;
+height: 70px;
+top: 270px;
+left: 1391px;
+position: absolute;
+overflow: hidden;
+}
+.texto46{
+  font-family: PF Regal Display Pro;
+font-size: 30px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: right;
+color: #B4B7B7;
+}
+.rectangulo51{
+  width: 407px;
+height: 99px;
+top: 300px;
+left: 1391px;
+position: absolute;
+overflow: hidden;
+}
+.texto47{
+
+font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 500;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: right;
+color: #FFFFFF;
+
+}
+.rectangulo52{
+  width: 345px;
+height: 70px;
+top: 400px;
+left: 1453px;
+
+  position: absolute;
+overflow: hidden;
+}
+
+.texto48{
+  font-family: Brandon Grotesque;
+font-size: 30px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: right;
+color: #B4B7B7;
+}
+
+.linea{
+  width: 1676px;
+  
+  background-color: #FFFFFF; /* Puedes especificar el color del borde */
+  position: absolute;
+  top: 500px;
+  left: 122px;
+  border: 1.5px solid #FFFFFF
+}
+
+.rectangulo53{
+  width: 439px;
+height: 77px;
+top: 550px;
+left: 740px;
+position: absolute;
+overflow: hidden;
+
+}
+.texto49{
+  font-family: Brandon Grotesque;
+font-size: 20px;
+font-weight: 450;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+}
+
+.rectangulo54{
+  width: 266px;
+height: 23.89px;
+top: 52.33px;
+left: 122px;
+position: absolute;
+overflow: hidden;
+
+}
+.img13{
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+
+.rectangulo55{
+  width: 125px;
+height: 19px;
+top: 60px;
+left: 1250px;
+
+  position: absolute;
+overflow: hidden;
+}
+
+.img14{
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+.rectangulo56{
+  width: 125px;
+height: 19px;
+top: 60px;
+left: 1391px;
+
+  position: absolute;
+  overflow: hidden;
+}
+.img15{ width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center}
+
+  .rectangulo57{
+    width: 35px;
+height: 19px;
+top: 60px;
+left: 1622px;
+position: absolute;
+  overflow: hidden;
+  }
+
+  .img16{
+    width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+  }
+  .rectangulo58{
+    width: 43px;
+    height: 19px;
+    top: 60px;
+    left: 1716px;
+    
+    position: absolute;
+  overflow: hidden;
+  }
+.img16{
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+.rectangulo59{
+  width: 4px;
+height: 75px;
+top: 26px;
+left: 1798px;
+
+  position: absolute;
+  overflow: hidden;
+}
+
+.img17{
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+
+.rectangulo60{
+  width: 45px;
+height: 30px;
+top: 49px;
+left: 1837px;
+
+  position: absolute;
+  overflow: hidden;
+}
+.img18{
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ajusta según tus necesidades: 'cover', 'contain', 'fill', 'none', 'scale-down' */
+  object-position: center
+}
+
+.linea1{
+  width: 1920px;
+top: 123px;
+
+
+  
+  background-color: #FFFFFF; /* Puedes especificar el color del borde */
+  position: absolute;
+  
+  left: 1px;
+  border: 1.5px solid #FFFFFF
+}
+
+.rectangulo61{
+  width: 529px;
+  height: 60px;
+  top: 227px;
+  left: 1269px;
+  border-radius: 100px;
+  
+  border: 1px solid #FFFFFF;
+position: absolute;
+overflow: hidden;
+
+}
+.texto50{
+  font-family: Brandon Grotesque;
+font-size: 20px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFFFFF;
+}
+
+.rectangulo62{
+  width: 40px;
+height: 40px;
+top: 19px;
+left: 430px;
+
+position: absolute;
+overflow: hidden;
+}
+
+.rectangulo63{
+  width: 490px;
+height: 100px;
+top: 644px;
+left: 122px;
+position: absolute;
+overflow: hidden;
+}
+.texto51{
+  font-family: PF Regal Display Pro;
+font-size: 40px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: left;
+color: #B4B7B7;
+}
+.rectangulo64{
+  width: 746px;
+height: 99px;
+top: 730px;
+left: 106px;
+position: absolute;
+overflow: hidden;
+}
+.rectangulo65{
+  width: 407px;
+height: 80px;
+top: 911px;
+left: 122px;
+border-radius: 100px;
+border: 1px;
+
+position: absolute;
+overflow: hidden;
+border: 1px solid #FFFFFF;
+
+}
+.rectangulo66{
+  width: 30.5px;
+height: 20px;
+top: 25px;
+left: 100px;
+border: 2px;
+position: absolute;
+overflow: hidden;
+}
+.texto52{
+  font-family: Brandon Grotesque;
+font-size: 30px;
+font-weight: 390;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: right;
+color: white;
+}
+.x{width: 1920px;
+  height: 1080px;
+  top: 1080px;
+  
+  background: linear-gradient(270deg, #000000 0%, #7E7E7E 100%);
+
+}
+.principal{
+  width: 431px;
+  height: 5497px;
+  top: -3694px;
+  left: 3807px;
+  gap: 20px;
+  
+}
